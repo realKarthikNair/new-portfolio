@@ -1,0 +1,60 @@
+
+               ________________________________________________
+               |      _____________________________           |
+               | [][] _____________________________ [_][_][_] |
+               | [][] [_][_][_] [_][_][_][_] [_][_] [_][_][_] |
+               |                                              |
+               | [][] [][][][][][][][][][][][][][_] [][][][]  |
+               | [][] [_][][][][][][][][][][][][][] [][][][]  |
+               | [][] [__][][][][][][][][][][][][_] [][][][]  |
+               | [][] [___][][][][][][][][][][][__] [__][][]  |
+               |          [_][______________][_]              |
+               |______________________________________________|
+
+
+* About Me ............................................................... [001]
+* Current Work ........................................................... [002]
+* Past Work .............................................................. [003]
+* Reference .............................................................. [004]
+
+[001] About Me
+_______________________________________________________________________________
+
+Research and Development Head of a Association of computer Enthusiasts
+(ACE)[1].
+
+My current specialty is in Data Analysis, but  I'm interested in many aspects
+of computer science, such as web, diffrent types of programming languages and
+pattern, theory of computation, IoT, and many more.
+
+[002] Current Work
+_______________________________________________________________________________
+
+Curent devoting my to the community know as Association of computer Enthusiasts
+(ACE) ACE as the Research and Development Head.
+My team buid and research about new aswell as old research in feild of computer
+science to expand or horizon of knowledge and spread knowledge to other.
+
+We have devloped many thing in our journey of knowledge, to see our work and
+collaborate with us #!https://vipsace.org
+
+Also trying to build a independent opensource orgizination for the world with
+my friends.
+
+[003] Past Work
+_______________________________________________________________________________
+
+1. In 2019 worked as freelanced technician.
+
+2. During the bachelor guided over 300+ people in the feald of computer science
+   training them with fundamental of computers, programing, and web.
+
+3. Mentored Members of ACE in many diffrent aspects of computer science.
+
+4. While in ACE conducted india wide techenical day event.
+
+
+[004] Reference
+_______________________________________________________________________________
+
+[1] #!https://vipsace.org

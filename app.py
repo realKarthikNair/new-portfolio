@@ -1,13 +1,18 @@
 from flask import Flask
 from flask import render_template, redirect, request
 
+import json
+
+with open("static/data/project.json", "r") as f:
+    PROJECT_DATA = json.load(f)
+
 app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
 def home():
     return render_template("home.html")
 
-@app.route('/articles', methods=['GET'])
+@app.route('/article', methods=['GET'])
 def articles():
     return render_template("article.html")
 
@@ -21,7 +26,7 @@ def whoami():
 
 @app.route('/bin', methods=['GET'])
 def bin():
-    return render_template("bin.html")
+    return render_template("bin.html", data=PROJECT_DATA)
 
 @app.errorhandler(404)
 def page_not_found(e):

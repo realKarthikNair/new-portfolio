@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "name": "Project Hazard",
+      "dis": "It a API for game joking hazard it will generate fun story picking random cards,\nyou just have to read them in sequence.",
+      "url": "https://ishubhamsingh2e.github.io/project-hazard"
+    },
+    {
+      "name": "Shorty",
+      "dis": "It was my first project in IoT\nMade a machenical keybord with 9 re-programable keys",
+      "url": "https://github.com/ishubhamsingh2e/shorty"
+    },
+    {
+      "name": "Maths Interpreter",
+      "dis": "It was my attempt to make a intreprater for mathematical equation it works like\na original intreprater but its very simple",
+      "url": "https://github.com/ishubhamsingh2e/MathInterpreter"
+    },
+    {
+      "name": "SwiftMovies",
+      "dis": "It's a simple programe using flask and electron.js which fetch data\nfrom on line data base and show in the application, also have capability to store\nwishlist using sqlite database.",
+      "url": "https://github.com/ishubhamsingh2e/SwiftMovies"
+    },
+    {
+      "name": "Advance Duck Duck Go",
+      "dis": "Extends DuckDuckGo by adding a customizable list of additional search\nengines for making fast searches from other engines and make anime search faster.",
+      "url": "https://github.com/ishubhamsingh2e/Advance_DDG"
+    },
+    {
+      "name": "Heart Attack Analysis",
+      "dis": "a exploratory data analysis on heart attack dataset, found may diffrent thing\nabout heart attack.",
+      "url": "https://github.com/ishubhamsingh2e/HeartAttack-Analysis"
+    }
+  ]
+}
