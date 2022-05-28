@@ -1,0 +1,29 @@
+body {
+    background-color: #f5f5e9;
+    font: 18px monospace,monospace;
+    overflow-y: scroll;
+    display: block;
+    margin: 8px;
+}
+
+span {
+    display: inline-block;
+}
+
+.content-wrapper {
+    display: table;
+    margin: 16px auto;
+    max-width: 80ch;
+}
+
+.content-wrapper ul {
+    list-style: none;
+}
+
+.content-wrapper li {
+    display: inline-block;
+}
+
+#maths {
+    width: 90ch;
+}
