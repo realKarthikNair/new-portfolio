@@ -13,26 +13,8 @@
       href="https://s2.svgbox.net/heropatterns.svg?ic=x-equals"
     />
     <title>Shubham_Singh</title>
-
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.css"
-      integrity="sha384-ZPe7yZ91iWxYumsBEOn7ieg8q/o+qh/hQpSaPow8T6BwALcXSCS6C6fSRPIAnTQs"
-      crossorigin="anonymous"
-    />
-    <script
-      defer
-      src="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.js"
-      integrity="sha384-ljao5I1l+8KYFXG7LNEA7DyaFvuvSCmedUf6Y6JI7LJqiu8q5dEivP2nDdFH31V4"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      defer
-      src="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/contrib/auto-render.min.js"
-      integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR"
-      crossorigin="anonymous"
-      onload="renderMathInElement(document.getElementById('maths'));"
-    ></script>
+    {% block head_script %}{% endblock %}
+</script>
   </head>
   <body>
     <div class="content-wrapper" id="content-wrapper">
@@ -53,6 +35,8 @@ Find Me on :-
 
                            (<a href="http://shorturl.at/deAI4">Shubham Singh</a> (C) 2022)
 </pre>
+    </div>
     <script src="{{ url_for('static', filename='javascript/surprise.js') }}"></script>
+    {% block bosy_script %}{% endblock %}
   </body>
 </html>
