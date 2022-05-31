@@ -27,7 +27,7 @@ if (Http.status == 200) {
       _pubDate.slice(0, _pubDate.length - 6) +
       "\n"
       +
-      `<a href=${_link}>https://dev.to/ishubhamsingh2e</a>` +
+      `-> <a href=${_link}>https://dev.to/ishubhamsingh2e</a>` +
       "</pre>";
   }
 } else if (xmlhttp.status == 404) {
