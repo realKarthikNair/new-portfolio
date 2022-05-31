@@ -1,1 +1,68 @@
-resume
+
+                  .==============.
+        __________||_/########\_||__________
+       |(O)____ : [FM 103.7] ooooo : ____(O)|      Deep down in L'usiana
+       |  /::::\:  _________  +|+  :/::::\  | -=<  close to New Orleans
+       |  \;;;;/: |    |    | |+|  :\;;;;/  |      Way Back up in the woods
+       |________:_ooooo+==ooo______:________|nad   Among the evergreens...
+
+* Education ............................................................. [001]
+* Experience ............................................................ [002]
+* Skills ................................................................ [003]
+* resume ................................................................ [004]
+
+[001] Education
+_______________________________________________________________________________
+
+--[2020-2023] Bachelor of Computer Application --------------------------------
+  Current pursuing my undergraduate degree while learning about the new thing
+  in the computer science world, member of ACE since 1'st year.
+
+--[2019-2020] Drop year -------------------------------------------------------
+  learned about computer hardware in Bootcamp by the Indian government (NSDC),
+  got intresred in the computer science world and self taught programming, and
+  data science.
+
+--[2018-2019] High School -----------------------------------------------------
+  Completed my high school in medical science while retaining mathematics in my
+  course.
+
+[002] Experience
+_______________________________________________________________________________
+
+--[2019-2020] Freelanced ------------------------------------------------------
+  worked as technician in computer hardware, gained experience working for
+  companies like Team Computers for ICAI and learned my way into the industry.
+  - learned how to deal with client by my self.
+
+--[2021-2021] Intership -------------------------------------------------------
+  work in a compny for the month of august, and assisted over 300+ new
+  deployments in their way ro computer science and software devlopement.
+  - learned how to handle large croud and intraction.
+
+--[2021-2023] Association of computer Enthusiasts -----------------------------
+  community of computer geeks in diffrent domain, worked with them to make new
+  project coordinating student, organinzing event and more.
+  - learned how to work as a team in a fairly sized organinzing.
+
+[003] Skills
+_______________________________________________________________________________
+
+1. Statistics
+2. Mathematics
+3. Computer Hardware
+4. Data Collection and smaple designe
+5. MATLAB
+5. IOT
+7. Software Development
+8. Web Programing
+9. IOT
+10. Linux
+11. DataBase
+12. Web Scraping
+
+[004] Resume
+_______________________________________________________________________________
+
+what me to work with you here is my resume
+   -> #!https://ishubhamsingh2e.github.io/portfolio/data/CV.pdf
