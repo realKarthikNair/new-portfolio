@@ -5,12 +5,10 @@
 }
 
 body {
+    font: 16px monospace, monospace;
+    overflow-y: scroll;
     background-color: var(--background);
     color: var(--color);
-    font: 18px monospace,monospace;
-    display: block;
-    margin: 8px;
-    overflow-y: scroll;
 }
 
 @media (prefers-color-scheme:dark) {
@@ -20,6 +18,12 @@ body {
         --link_color: #6CF;
     }
 }
+
+@media (max-width: 999px) {
+    body {
+      font-size: 1.94vw;
+    }
+  }
 
 a {
     color: var(--link_color)
