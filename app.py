@@ -3,7 +3,7 @@ from flask import render_template, redirect, request
 
 import json
 
-with open("static/data/project.json", "r") as f:
+with open("~/portfolio/static/data/project.json", "r") as f:
     PROJECT_DATA = json.load(f)
 
 app = Flask(__name__)
