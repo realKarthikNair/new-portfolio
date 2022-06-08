@@ -51,7 +51,7 @@ def reset(files:list, path="templates", common="common.html") -> None:
     return None
 
 if __name__ == '__main__':
-    with open("static/textfile/home.txt", "r") as file:
+    with open("textfile/home.txt", "r") as file:
         with open("textfile.txt", "w") as out:
             data = texttohtml(file.read())
             out.write(str(data))

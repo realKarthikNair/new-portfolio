@@ -13,13 +13,13 @@ if __name__ == "__main__":
     html.close()
     find = re.search("<pre><\/pre>", data)
     span = find.span()
-    with open("static/textfile/common.txt", "r") as file:
+    with open("textfile/common.txt", "r") as file:
         _data = file.read()
         data = data[:span[0]] + f"<pre>{texttohtml.texttohtml(_data)}</pre>" + data[span[1]:]
         with open("templates/common.html", "w") as f:
             f.write(data)
     for i in TEMPLATE:
-        _path_text = "static/textfile/" + i[:-5] + ".txt"
+        _path_text = "textfile/" + i[:-5] + ".txt"
         _path_html = "templates/" + i
         with open(_path_html, 'r+') as f:
             contents = f.read()
