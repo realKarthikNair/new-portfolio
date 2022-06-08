@@ -1,10 +1,9 @@
 from flask import Flask
 from flask import render_template, redirect, request
+import requests
 
-import json
-
-with open("static/data/project.json", "r") as f:
-    PROJECT_DATA = json.load(f)
+URL = "https://raw.githubusercontent.com/ishubhamsingh2e/new-portfolio/main/static/data/project.json"
+PROJECT_DATA = requests.get(URL).json()
 
 app = Flask(__name__)
 
@@ -33,6 +32,5 @@ def page_not_found(e):
     return render_template('404.html'), 404
 
 if __name__ == '__main__':
-    # from waitress import serve
-    # serve(app, host="0.0.0.0", port=8080)
-    app.run()
+    from waitress import serve
+    serve(app, host="0.0.0.0", port=8080)
