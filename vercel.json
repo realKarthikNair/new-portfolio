@@ -1,10 +1,12 @@
 {
     "version": 2,
+    "scripts": {
+        "build": "python3 build.py"
+    },
     "builds": [
         {
             "src": "index.py",
-            "use": "@vercel/python",
-            "build": "python3 build.py"
+            "use": "@vercel/python"
         }
     ],
     "routes": [
