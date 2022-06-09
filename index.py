@@ -36,9 +36,7 @@ def page_not_found(e):
 # API Routes
 @app.route('/api/projects', methods=['GET'])
 def projects():
-    json_url = os.path.join(ROOT, "static/data", "project.json")
-    data = json.load(open(json_url))
-    return data
+    return PROJECT_DATA
 
 @app.route('/api/userdata', methods=['GET'])
 def userdata():
