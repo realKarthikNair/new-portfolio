@@ -1,8 +1,5 @@
 {
     "version": 2,
-    "scripts": {
-        "build": "python3 build.py"
-    },
     "builds": [
         {
             "src": "index.py",
