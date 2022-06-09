@@ -1,18 +1,18 @@
 
-+------------------------------------------------------------------------------+
-|                                                                              |
+ +------------------------------------------------------------------------------+
+|                                                                               |
 |                                                   (Created by <a href="https://www.linkedin.com/in/shubham-singh-6900861ba">Shubham Singh</a>) |
-|                                                                              |
-|                                                                     ____     |
-|                                                                    |    |    |
-|          .--------------------------------------------------------.|    |    |
-|          |                                                         |    |    |
-|          |   "hey nerd, because no one looks at site like this."   |    |    |
-|          |                                                       ._|____|_.  |
-|          '-------------------------------------------------------\\|o_o |    |
-|                                                                    |:_/ |    |
-|                                                                   //   \ \   |
-|                                                                  (|     | )  |
+|                                                                               |
+|                                                                      ____     |
+|                                                                     |    |    |
+|          .--------------------------------------------------------. |    |    |
+|          |                                                          |    |    |
+|          |   "hey nerd, because no one looks at sites like this."   |    |    |
+|          |                                                       ._ |____|_.  |
+|           '-------------------------------------------------------\\|o_o |    |
+|                                                                     |:_/ |    |
+|                                                                    //   \ \   |
+|                                                                   (|     | )  |
 +------------------------------------------------------------------------------+
 
 * About Me ............................................................... [001]
@@ -22,30 +22,30 @@
 [001] About Me
 _______________________________________________________________________________
 
-I am a computer science student from india currently in my bachelor form GGSIPU
-affilated college VIPS ( #!https://vips.edu ), one of the top college for
+I am a computer science student from india currently doing my bachelors from a GGSIPU
+affilated college known as VIPS ( #!https://vips.edu ), one of the topmost college for
 bachelor in computer applications.
 
-I like to do contributions to opensource community, always try
-to make new thing from scratch, also have experience in computer hardware,
+I like to contribute to the opensource community and i always try
+to build new things from scratch. I also have a hands-on experience in computer hardware,
 server, and more.
 
 What i can do.
 
-1. Machine learning - my knowledge in machine learning is reather elementry as
-   of now but my knowledge in data in sharp.
+1. Machine learning - my knowledge in machine learning is rather elementary as
+   of now but my knowledge in data is sharp.
 
-2. Data analysis - I can do most of the thing related with data, data analysis
-   , i am good with statistics, mathematical analysis, hypotical testing,
+2. Data analysis - I can do almost everything related to data, data analysis.
+   i am also good with statistics, mathematical analysis, hypothetical testing and
    experimental design.
 
-3. Software Development - fairly good at software development, i'm quick then
+3. Software Development - fairly good at software development, i'm quick than
    most of the people in finding solutions.
 
-4. Web Development - not good in web base programming but i can work around,
+4. Web Development - Web based programming isn't my cup of tea but i can work around,
    have fundementals but no practice.
 
-5. IoT - have fundementals in design curcuits and printed curcuits board
+5. IoT - have fundementals in design circuits and printed circuits board
    design.
 
 [002] About This Interface
