@@ -1,6 +1,5 @@
                                           <a href="/">/home</a> <a href="/whoami">/whoami</a> <a href="/resume">/resume</a> <a href="/bin">/bin</a> <a href="/article">/article</a> <a href="http://github.com/ishubhamsingh2e"><img id="g" alt="GitHub" src="data:image/gif;base64,R0lGODlhEAAQAPABAAAAAP//ACH5BAUIAAEALAAAAAAQABAAAAIojA2px6G/GJzgJASxbrI+jmVgGI3TSF4oZS6emmqw823dTFcWbklNAQA7"></a>
-{% block content %}
-{% endblock %}
+{% block content %}{% endblock %}
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
 
 This portfolio is inspired from kisslinux webpage @/#!https://kisslinux.org
